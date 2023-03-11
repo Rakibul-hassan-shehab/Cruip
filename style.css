@@ -1,0 +1,11 @@
+.main_bg_img{
+    background-image: url("image/background.jpg");
+    height: auto;
+    width: 100vw;
+}
+#logo_img{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-radius: 50%;
+}
